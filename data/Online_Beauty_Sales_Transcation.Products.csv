@@ -1,0 +1,11 @@
+_id,product_id,name,category,price,brand,stock
+671d2aa70b205c84731e7d5e,P001,Face Wash,Skincare,15.99,Clean & Clear,50
+671d2aa70b205c84731e7d5f,P002,Lipstick,Makeup,9.99,Maybelline,100
+671d2aa70b205c84731e7d60,P003,Moisturizer,Skincare,18.99,Neutrogena,75
+671d2aa70b205c84731e7d61,P004,Foundation,Makeup,29.99,L'Oreal,60
+671d2aa70b205c84731e7d62,P005,Eyeliner,Makeup,5.99,Lakme,200
+671d2aa70b205c84731e7d63,P006,Sunscreen,Skincare,12.99,Biotique,80
+671d2aa70b205c84731e7d64,P007,Hair Serum,Hair Care,14.99,Matrix,40
+671d2aa70b205c84731e7d65,P008,Shampoo,Hair Care,10.99,Pantene,120
+671d2aa70b205c84731e7d66,P009,Conditioner,Hair Care,10.99,Pantene,110
+671d2aa70b205c84731e7d67,P010,Blush,Makeup,15.99,Revlon,90

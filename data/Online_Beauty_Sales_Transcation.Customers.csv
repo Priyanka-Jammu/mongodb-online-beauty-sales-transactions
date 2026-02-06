@@ -1,0 +1,11 @@
+_id,customer_id,name,email,address,phone
+671d29690b205c84731af2a7,C001,Priya Sharma,priya.sharma@example.com,"123 Main St, Mumbai",+91-9876543210
+671d29690b205c84731af2a8,C002,Aarav Patel,aarav.patel@example.com,"456 Park Ave, Delhi",+91-8765432109
+671d29690b205c84731af2a9,C003,Isha Verma,isha.verma@example.com,"789 Willow Rd, Bangalore",+91-7654321098
+671d29690b205c84731af2aa,C004,Rohan Singh,rohan.singh@example.com,"101 Elm St, Chennai",+91-6543210987
+671d29690b205c84731af2ab,C005,Sara Ali,sara.ali@example.com,"202 Maple Dr, Kolkata",+91-5432109876
+671d29690b205c84731af2ac,C006,Kunal Kapoor,kunal.kapoor@example.com,"303 Birch Ln, Hyderabad",+91-4321098765
+671d29690b205c84731af2ad,C007,Nina Mehta,nina.mehta@example.com,"404 Pine St, Pune",+91-3210987654
+671d29690b205c84731af2ae,C008,Sameer Joshi,sameer.joshi@example.com,"505 Oak Blvd, Jaipur",+91-2109876543
+671d29690b205c84731af2af,C009,Riya Nair,riya.nair@example.com,"606 Cedar Ave, Cochin",+91-1098765432
+671d29690b205c84731af2b0,C010,Aditi Rao,aditi.rao@example.com,"707 Fir St, Ahmedabad",+91-9087654321
